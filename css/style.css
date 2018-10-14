@@ -1,0 +1,12 @@
+*{
+	text-align: center;
+}
+
+h1{
+	text-transform: uppercase;
+}
+
+.btn {
+	background-color: blue;
+	border-color: white;
+}
